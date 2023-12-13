@@ -8,14 +8,14 @@ body{
     color: rgb(29, 19, 174);
     text-align: center;
     font-size: x-large;
-    font-family: cursive;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .fonthot{
     color:rgb(168, 9, 9);
     text-align: left;
     font-size: large;
-    font-family: cursive;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .tableauPlaceholder{
