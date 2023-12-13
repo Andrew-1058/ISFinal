@@ -49,6 +49,7 @@ position: relative;
 float: right;
 }
 .gobacks{
+    float: left;
     font-size: large;
     font-style: italic;
 }
