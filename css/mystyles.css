@@ -1,0 +1,72 @@
+
+body{
+    background-image: url(../assets/img/background.jpg);
+    background-size: cover;
+}
+
+.fontsexy{
+    color: rgb(29, 19, 174);
+    text-align: center;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+.fonthot{
+    color:rgb(168, 9, 9);
+    text-align: left;
+    font-size: large;
+    font-family: cursive;
+}
+
+.tableauPlaceholder{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px !important;
+    Overflow-y:scroll !important;
+}
+
+.parent{
+    display: flex;
+}
+.fontepic{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.list{
+    display: table;
+    margin-left: auto;
+    margin-right: 70%;
+    list-style-position: inside;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-family: monospace;
+    font-size: x-large;
+}
+.video{
+position: relative;
+float: right;
+}
+.gobacks{
+    font-size: large;
+    font-style: italic;
+}
+.footer {
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    z-index: 2;
+}
+a:visited{
+    color: white;
+}
+a:hover {
+    color: black;
+  }
+  a:active {
+    color: whitesmoke;
+  }
